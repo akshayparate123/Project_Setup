@@ -25,7 +25,7 @@ This repository automatically created a full stack project setup
 │       
 │── /migrations                 # Stores database migration files when using Flask-Migrate (Alembic under the hood).
 │── /tests  
-│   │── test_user.py                    # Contains unit and integration tests for both backend and frontend.
+│   │── test_user.py            # Contains unit and integration tests for both backend and frontend.
 │── /scripts                    # Contains automation scripts for deployment, database seeding, and backups.
 │   │── build.sh                # Shell script to build the application.
 │   │── deploy.sh               # Automates deployment process.
